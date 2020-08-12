@@ -1,0 +1,11 @@
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\bin\Debug\netcoreapp3.1\ExceptionHandlingTask.exe
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\bin\Debug\netcoreapp3.1\ExceptionHandlingTask.deps.json
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\bin\Debug\netcoreapp3.1\ExceptionHandlingTask.runtimeconfig.json
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\bin\Debug\netcoreapp3.1\ExceptionHandlingTask.runtimeconfig.dev.json
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\bin\Debug\netcoreapp3.1\ExceptionHandlingTask.dll
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\bin\Debug\netcoreapp3.1\ExceptionHandlingTask.pdb
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\obj\Debug\netcoreapp3.1\ExceptionHandlingTask.csprojAssemblyReference.cache
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\obj\Debug\netcoreapp3.1\ExceptionHandlingTask.AssemblyInfoInputs.cache
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\obj\Debug\netcoreapp3.1\ExceptionHandlingTask.AssemblyInfo.cs
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\obj\Debug\netcoreapp3.1\ExceptionHandlingTask.dll
+D:\Learning\Swinburne\C_Sharp\ExceptionHandlingTask\obj\Debug\netcoreapp3.1\ExceptionHandlingTask.pdb
